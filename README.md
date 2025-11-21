@@ -1,7 +1,4 @@
-# gas-leakage-detector-mq2-arduino
-Arduino-based gas leakage detection system using MQ2 sensor, relay, buzzer, and LED indicators for real-time safety alerts.
-
-# Gas Leakage Detector (MQ2 + Arduino)
+ # Gas Leakage Detector (MQ2 + Arduino)
 
 This project uses an MQ2 gas sensor, relay module (for motor or exhaust fan), buzzer, and LEDs to create a complete gas leakage detection and alert system using Arduino.  
 
@@ -39,5 +36,4 @@ When gas concentration crosses a safe threshold, the system turns ON the relay, 
 | Red LED       | D6          |
 
 ---
-
-## 📦 File Structure
+ e
