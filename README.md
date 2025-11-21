@@ -35,5 +35,4 @@ When gas concentration crosses a safe threshold, the system turns ON the relay, 
 | Green LED     | D5          |
 | Red LED       | D6          |
 
----
- e
+ 
