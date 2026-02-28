@@ -6,7 +6,7 @@ When gas concentration crosses a safe threshold, the system turns ON the relay, 
 
 ---
 
-## 🚀 Features
+##  Features
 - Detects flammable gases (LPG, Smoke, Methane, Butane, Hydrogen, Alcohol).
 - Relay automatically activates fan/motor when gas is detected.
 - Buzzer for audible alert.
